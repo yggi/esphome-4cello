@@ -623,4 +623,3 @@ media_player:
     mute_pin: GPIO14
 
 es8388:
-  power_pin: GPIO21
