@@ -613,3 +613,6 @@ media_player:
     i2s_dout_pin: GPIO25
     i2s_bclk_pin: GPIO27
     mute_pin: GPIO14
+
+es8388:
+  power_pin: GPIO21
